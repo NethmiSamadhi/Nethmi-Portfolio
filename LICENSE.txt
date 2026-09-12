@@ -1,0 +1,11 @@
+Copyright (c) 2026 Nethmi Samadhi
+
+All Rights Reserved.
+
+This project is publicly available for portfolio and evaluation purposes only.
+
+No part of this source code, design, content, documentation, or associated
+materials may be copied, modified, redistributed, published, sold, or used
+without prior written permission from Nethmi Samadhi.
+
+Contact: nethmisamadhi822@gmail.com
